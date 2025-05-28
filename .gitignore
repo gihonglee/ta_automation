@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignore credentials and config
+credential/
+config.py
+
+# Optional: ignore other typical files
+__pycache__/
+*.pyc
+.env
